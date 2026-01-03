@@ -50,6 +50,8 @@ To validate the engine, I simulated a high-value order during a favorable USD/EU
 
 📉 **Immediate Impact:** € 366.82 Saved (12% Margin)
 
+The currency conversion is based on the exchange rate of 1 EUR = 1.17 USD, as of 03/01/2025
+
 **Insight:** The engine correctly identified that despite higher nominal shipping costs ($29.91), the currency arbitrage opportunity outweighed the logistics fees. A manual operator using static monthly rates would have missed this saving.
 
 ---
